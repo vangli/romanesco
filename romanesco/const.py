@@ -23,7 +23,7 @@ NUM_EPOCHS = 15
 NUM_STEPS = 100 # truncated backprop length
 LEARNING_RATE = 0.001
 
-HIDDEN_SIZE = 1024  # RNN state size
+HIDDEN_SIZE = 2048  # RNN state size
 EMBEDDING_SIZE = 256  # embedding vector size
 
 SAMPLE_LENGTH = 100
